@@ -15,7 +15,7 @@ This project demonstrates the use of Microsoft Excel for creating business dashb
 - Data Cleaning & Analysis
 
 ### 📸 Screenshots
-![Dashboard Overview](screenshots/excel_dashboard1.jpeg)
+![Excel Dashboard](screenshots/excel_dashboard.jpg)
 
 ### 🏁 Outcome
 Developed a clear understanding of data analysis and reporting in Excel.  
